@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rizbi Islam.
 - 👀 I’m interested in Mobile application Development.
-- 🌱 I’m currently learning android application development with java.
 - 💞️ I’m looking to collaborate on this site.
 - 📫 How to reach me rizbi.cse@gmail.com
 
