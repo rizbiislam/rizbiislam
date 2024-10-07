@@ -4,7 +4,7 @@
 **Phone**: +880 1609084529  
 **Email**: [rizbi.cse@gmail.com](mailto:rizbi.cse@gmail.com)  
 **LinkedIn**: [Rizbi Islam](https://www.linkedin.com/in/rizbi-islam)  
-**GitHub**: [your-github](https://github.com/rizbiislam/rizbiislam)  
+**GitHub**: [github](https://github.com/rizbiislam/rizbiislam)  
 **Portfolio**: [Google Sites](https://sites.google.com/diu.edu.bd/rizbiislam58)
 
 ---
