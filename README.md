@@ -17,7 +17,7 @@ Enthusiastic and motivated fresher with a background in Software Quality Assuran
 
 ## 🛠️ Skills
 
-- **SQA Tools**: Selenium, Postman, JMeter, Locust
+- **SQA Tools**: Selenium, TestNG, Postman, JMeter, Locust
 - **Programming Languages**: Java, Python, C, Dart
 - **Mobile Development**: Android, Java, XML, Firebase
 - **Testing & Automation**: Unit testing, Performance testing, API testing
