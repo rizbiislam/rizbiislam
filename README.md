@@ -1,6 +1,6 @@
 # Rizbi Islam
 
-**Location**: 454 East Kazipara, Mirpur-10, Dhaka, Bangladesh 
+**Location**: 454 East Kazipara, Mirpur-10, Dhaka, Bangladesh  
 **LinkedIn**: [Rizbi Islam](https://www.linkedin.com/in/rizbi-islam)  
 **GitHub**: [github](https://github.com/rizbiislam/rizbiislam)  
 **Portfolio**: [Google Sites](https://sites.google.com/diu.edu.bd/rizbiislam58)
