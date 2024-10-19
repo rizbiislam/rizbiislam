@@ -50,7 +50,7 @@ Enthusiastic and motivated fresher with a background in Software Quality Assuran
 ---
 
 ### Shakib Al Hasan Batting Career Statistics Dashboard
-*August 2023 - September 2022*
+*August 2023 - September 2023*
 
 - Developed a Power BI dashboard to visualize Shakib Al Hasan's batting performance.
 - Enabled filtering of performance metrics like centuries, sixes, and match formats.
@@ -86,7 +86,7 @@ GPA: 4.28 out of 5
 
 - **Introduction to Responsible AI** - Google
 - **Introduction to Generative AI** - Google
-- **Introduction to Docker and Kubernetes** - styava.dev
+- **Introduction to Docker and Kubernetes** - Styava.dev
 - **SQA: Manual & Automated Testing** - Ostad
 - **Zero to Hero in Android (Season 2)** - Bongo Academy
 
@@ -94,15 +94,14 @@ GPA: 4.28 out of 5
 
 ## 💡 Projects
 
-### [[Tourist Guide & Safety App](https://github.com/your-github/tourist-guide-app](https://github.com/rizbiislam/MyTourApp))
+### [Tourist Guide & Safety App](https://github.com/rizbiislam/MyTourApp)
 An Android application that allows tourists to plan trips, book tickets, and request emergency assistance.
 
-### [[User-Friendly-Shell-Script-Math-Assistant]([https://github.com/rizbiislam/MyTourApp](https://github.com/rizbiislam/User-Friendly-Shell-Script-Math-Assistant)))
-Developed a **multi-functional shell script calculator**
+### [User-Friendly Shell Script Math Assistant](https://github.com/rizbiislam/User-Friendly-Shell-Script-Math-Assistant)
+Developed a **multi-functional shell script calculator**.
 
-### [[Shakib Al Hasan Batting Dashboard](https://github.com/your-github/shakib-dashboard](https://github.com/rizbiislam/Shakib-Al-Hasan-Batting-statistic))
+### [Shakib Al Hasan Batting Dashboard](https://github.com/rizbiislam/Shakib-Al-Hasan-Batting-statistic)
 An interactive Power BI dashboard visualizing Shakib Al Hasan’s batting performance statistics.
-
 
 ---
 
