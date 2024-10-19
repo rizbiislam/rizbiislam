@@ -97,6 +97,9 @@ GPA: 4.28 out of 5
 ### [[Tourist Guide & Safety App](https://github.com/your-github/tourist-guide-app](https://github.com/rizbiislam/MyTourApp))
 An Android application that allows tourists to plan trips, book tickets, and request emergency assistance.
 
+### [[User-Friendly-Shell-Script-Math-Assistant]([https://github.com/rizbiislam/MyTourApp](https://github.com/rizbiislam/User-Friendly-Shell-Script-Math-Assistant)))
+Developed a **multi-functional shell script calculator**
+
 ### [[Shakib Al Hasan Batting Dashboard](https://github.com/your-github/shakib-dashboard](https://github.com/rizbiislam/Shakib-Al-Hasan-Batting-statistic))
 An interactive Power BI dashboard visualizing Shakib Al Hasan’s batting performance statistics.
 
