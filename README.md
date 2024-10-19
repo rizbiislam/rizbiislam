@@ -1,12 +1,11 @@
 # Rizbi Islam
 
-<span style="font-size: 12px;">
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20px"/>](https://www.linkedin.com/in/rizbi-islam) LinkedIn | 
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20px"/>](https://github.com/rizbiislam/rizbiislam) GitHub | 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Sites" width="20px"/>](https://sites.google.com/diu.edu.bd/rizbiislam58) Portfolio  
-**Phone**: +880 1609084529 | **Email**: [rizbi.cse@gmail.com](mailto:rizbi.cse@gmail.com)  
-**Location**: 454 East Kazipara, Mirpur-10, Dhaka, Bangladesh  
-</span>
+**Location**: 454 East Kazipara, Mirpur-10, Dhaka, Bangladesh 
+**LinkedIn**: [Rizbi Islam](https://www.linkedin.com/in/rizbi-islam)  
+**GitHub**: [github](https://github.com/rizbiislam/rizbiislam)  
+**Portfolio**: [Google Sites](https://sites.google.com/diu.edu.bd/rizbiislam58)
+**Phone**: +880 1609084529  
+**Email**: [rizbi.cse@gmail.com](mailto:rizbi.cse@gmail.com)
  
 ---
 
