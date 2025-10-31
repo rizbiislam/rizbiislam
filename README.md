@@ -1,3 +1,8 @@
+<!-- 👇 Top Banner -->
+<p align="center">
+  <img src="https://github.com/rizbiislam/rizbiislam/raw/main/banner.png" alt="Rizbi Islam - Software Quality Assurance Engineer" width="100%">
+</p>
+
 # 👋 Hi, I'm **Rizbi Islam**
 
 🎯 **Software Quality Assurance (SQA) Engineer**  
@@ -71,10 +76,20 @@ I’m passionate about:
 
 ---
 
+## 📄 **Download My CV**
+
+> 📥 [**Download Rizbi_Islam_SQA_CV (PDF)**](https://github.com/rizbiislam/your-repo-name/raw/main/Rizbi Isla1.pdf)
+
+*(Replace the above link with your actual CV file URL once uploaded.)*
+
+---
+
 ## 📈 **GitHub Stats**
 
-![Rizbi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizbiislam&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizbiislam&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizbiislam&show_icons=true&theme=tokyonight" alt="Rizbi's GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizbiislam&layout=compact&theme=tokyonight" alt="Top Languages" height="150">
+</p>
 
 ---
 
