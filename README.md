@@ -1,110 +1,87 @@
-# Rizbi Islam
+# 👋 Hi, I'm **Rizbi Islam**
 
-**Location**: 454 East Kazipara, Mirpur-10, Dhaka, Bangladesh  
-**LinkedIn**: [Rizbi Islam](https://www.linkedin.com/in/rizbi-islam)  
-**GitHub**: [github](https://github.com/rizbiislam/rizbiislam)  
-**Portfolio**: [Google Sites](https://sites.google.com/diu.edu.bd/rizbiislam58)  
-**Phone**: +880 1609084529  
-**Email**: [rizbi.cse@gmail.com](mailto:rizbi.cse@gmail.com)
- 
----
-
-## 👨‍💻 Professional Summary
-
-Enthusiastic and motivated fresher with a background in Software Quality Assurance (SQA) and mobile app development. Skilled in using automation tools like Selenium, Postman, JMeter, and Locust. Experience working with Android app development and data visualization. Looking for opportunities to contribute to software development and testing with a focus on delivering high-quality solutions.
+🎯 **Software Quality Assurance (SQA) Engineer**  
+💻 *Manual & Automation Testing | API Testing | Web Systems | Agile QA Practices*  
+📍 Dhaka, Bangladesh  
+📧 **Email:** [rizbi.cse@gmail.com](mailto:rizbi.cse@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/rizbi-islam](https://linkedin.com/in/rizbi-islam)  
+💻 **GitHub:** [github.com/rizbiislam](https://github.com/rizbiislam)  
 
 ---
 
-## 🛠️ Skills
+## 🧠 **About Me**
+I’m a **Software Quality Assurance Engineer** with hands-on experience in **manual and automation testing** of web and API-based applications.  
+I focus on building reliable, maintainable test frameworks and ensuring software quality through **functional, regression, and integration testing**.
 
-- **SQA Tools**: Selenium, TestNG, Postman, JMeter, Locust
-- **Programming Languages**: Java, Python, C, Dart
-- **Mobile Development**: Android, Java, XML, Firebase
-- **Testing & Automation**: Unit testing, Performance testing, API testing
-- **Data Visualization**: Power BI, Power Query, MS Excel
-- **Databases**: SQL, MySQL, MsSQL
-- **APIs**: REST APIs
-- **Operating Systems**: Android, Windows (10, 11), Linux (Ubuntu), iOS, macOS
-- **Project Management**: Agile methodologies, SDLC processes
+I’m passionate about:
+- Building scalable automation frameworks using **Selenium & TestNG**
+- Designing robust API tests with **Postman & Newman**
+- Continuous improvement through **Agile & DevOps** practices
+- Delivering stable, high-quality software solutions 🚀  
 
 ---
 
-## 💼 Experience
+## 🧰 **Technical Skills**
 
-### Freelance SQA Engineer
-*July 2024 - Present*
-
-- Automated web and mobile application testing using Selenium and JMeter.
-- Created performance test scripts with Locust to evaluate system load and performance.
-- Conducted API testing using Postman to ensure proper integration and functionality.
-
----
-
-### Tourist Guide & Safety App - Android Application
-*March 2023 - July 2023*
-
-- Developed an Android app for planning tours, booking tickets, and hiring guides.
-- Integrated real-time location sharing and emergency requests for user safety.
-- Built using Java, XML, Firebase, Google Maps, and Volley.
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Testing Tools** | Selenium WebDriver, TestNG, Postman, Newman, JMeter, Allure Report, Jira, TestRail |
+| **Programming** | Java (Primary), Python, JavaScript |
+| **Testing Methodologies** | Functional, Regression, Smoke, UAT, SDLC/STLC, Agile (Scrum) |
+| **Version Control** | Git, GitHub |
+| **Databases** | SQL, MySQL |
+| **Others** | Docker, Kubernetes (Basic) |
 
 ---
 
-### Shakib Al Hasan Batting Career Statistics Dashboard
-*August 2023 - September 2023*
+## 🧩 **Projects**
 
-- Developed a Power BI dashboard to visualize Shakib Al Hasan's batting performance.
-- Enabled filtering of performance metrics like centuries, sixes, and match formats.
-- Managed data with Google Sheets and Power Query for visualization.
-
----
-
-### Heart Failure Prediction Data Mining & Machine Learning Model
-*December 2022 - February 2023*
-
-- Developed a heart failure prediction model using Random Forest with over 90% accuracy.
-- Enhanced model accuracy with Naive Bayes and KNN algorithms.
+### 🧪 [SauceDemo Automated Testing](https://github.com/rizbiislam/saucedemo-test)
+- Built a complete **Selenium WebDriver + TestNG** automation framework using the **Page Object Model (POM)**.  
+- Integrated **Allure Reporting** for detailed test result visualization.  
+- Automated key eCommerce workflows: login, add-to-cart, and checkout validation.
 
 ---
 
-## 🎓 Education
-
-### Bachelor of Computer Science and Engineering - Daffodil International University
-*January 2019 - September 2023*  
-CGPA: 3.06 out of 4
-
-### Higher Secondary School Certificate - Bornamala College
-*July 2016 - August 2018*  
-GPA: 3.17 out of 5
-
-### Secondary School Certificate - Karihata High School
-*January 2011 - May 2016*  
-GPA: 4.28 out of 5
+### 🔗 [Demo Evershop (API & Web Automation Testing)](https://github.com/rizbiislam/Api-Testing-Demo-evershop)
+- Automated RESTful API tests using **Postman** and **Newman** with HTML reporting.  
+- Developed scalable Selenium-based web automation framework following **POM architecture**.
 
 ---
 
-## 🏆 Certifications
-
-- **Introduction to Responsible AI** - Google
-- **Introduction to Generative AI** - Google
-- **Introduction to Docker and Kubernetes** - Styava.dev
-- **SQA: Manual & Automated Testing** - Ostad
-- **Zero to Hero in Android (Season 2)** - Bongo Academy
-
----
-
-## 💡 Projects
-
-### [Tourist Guide & Safety App](https://github.com/rizbiislam/MyTourApp)
-An Android application that allows tourists to plan trips, book tickets, and request emergency assistance.
-
-### [User-Friendly Shell Script Math Assistant](https://github.com/rizbiislam/User-Friendly-Shell-Script-Math-Assistant)
-Developed a **multi-functional shell script calculator**.
-
-### [Shakib Al Hasan Batting Dashboard](https://github.com/rizbiislam/Shakib-Al-Hasan-Batting-statistic)
-An interactive Power BI dashboard visualizing Shakib Al Hasan’s batting performance statistics.
+## 💼 **Experience**
+**IT Executive & QA Engineer**  
+**RK Software (Bangladesh) Limited | Dhaka | March 2025 – Present**  
+- Performed end-to-end testing of full-stack systems (web UI & backend).  
+- Conducted rigorous **API testing** with Postman & Newman.  
+- Managed **defect lifecycle** from detection to closure in Agile environments.  
+- Worked on **live government systems (DNCC & CCC Revenue Management)** ensuring system stability in production.
 
 ---
 
-## 📫 Contact
+## 🎓 **Education**
+**B.Sc. in Computer Science & Engineering (CSE)**  
+*Daffodil International University* — Graduated: 2023  
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rizbi-islam) or reach out via [Email](mailto:rizbi.cse@gmail.com)!
+---
+
+## 📜 **Certifications**
+- **SQA: Manual & Automated Testing** – ostad.app  
+- **Introduction to Docker and Kubernetes** – Styava.dev  
+
+---
+
+## 📈 **GitHub Stats**
+
+![Rizbi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizbiislam&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizbiislam&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 **Let’s Connect**
+💬 Open to collaborations, SQA roles, and automation testing projects.  
+📩 Reach me at **[rizbi.cse@gmail.com](mailto:rizbi.cse@gmail.com)**  
+
+---
+
+⭐ **_“Quality is never an accident; it is always the result of intelligent effort.” — John Ruskin_**
