@@ -97,8 +97,8 @@ I'm focused on:
 
 ## 📄 Download My CV
 
-> 📥 [**Download Rizbi_Islam_Resume (PDF)**](https://github.com/rizbiislam/rizbiislam/raw/main/Rizbi_Islam_Resume.pdf)
-> *(Upload your actual resume file to this repo as `Rizbi_Islam_Resume.pdf` so the link resolves — GitHub raw links can't have spaces in the filename.)*
+> 📥 [**Download Rizbi_Islam_Resume (PDF)**](https://github.com/rizbiislam/rizbiislam/blob/main/Rizbi_Islam_Resume.pdf)
+
 
 ---
 
